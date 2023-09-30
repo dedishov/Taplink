@@ -23,7 +23,7 @@ body {
   padding: 100px 44px;
   border-radius: 15px 15px 60px 60px;
   border-top: 1px solid #000;
-  background: linear-gradient(0deg, rgba(0, 0, 0, 0.70) 0%, rgba(0, 0, 0, 0.70) 100%), url('/img/head.b-g.png') no-repeat bottom / cover;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.70) 0%, rgba(0, 0, 0, 0.70) 100%), url('../img/head.b-g.png') no-repeat bottom / cover;
 }
 .hello {
   font-size: 18px;
